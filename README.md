@@ -2,23 +2,6 @@
 
 > 本博客为第一版本，后续会持续更新！如果你觉得还不错，可以点个star！也可以fork一下一起来玩！
 
-
-## 网站截图
-> 如果截图看不到，请访问 http://www.kuls6.top/blog/22
->
-![](https://github.com/hellokuls/blog/blob/master/imgs/1.png)
-
-![](https://github.com/hellokuls/blog/blob/master/imgs/2.png)
-
-![](https://github.com/hellokuls/blog/blob/master/imgs/3.png)
-
-![](https://github.com/hellokuls/blog/blob/master/imgs/4.png)
-![](https://github.com/hellokuls/blog/blob/master/imgs/5.png)
-![](https://github.com/hellokuls/blog/blob/master/imgs/6.png)
-![](https://github.com/hellokuls/blog/blob/master/imgs/7.png)
-![](https://github.com/hellokuls/blog/blob/master/imgs/8.png)
-
-
 ## 部署
 修改mysql、redis配置
 ```yaml
